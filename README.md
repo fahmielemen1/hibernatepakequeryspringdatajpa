@@ -1,0 +1,2 @@
+# hibernatepakequeryspringdatajpa
+hibernate pake query springdatajpa
